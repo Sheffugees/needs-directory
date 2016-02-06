@@ -10,6 +10,14 @@
     <body>
         <div class="row">
             <div class="large-12 columns">
+                {% block languages %}
+                    <a href="/en">English</a>|<a href="/ar" dir="rtl">العربية</a>
+                {% endblock %}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="large-12 columns">
                 <h1>{% block title %}{% endblock %}</h1>
 
                 {% block standfirst %}{% endblock %}

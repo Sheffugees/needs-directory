@@ -74,7 +74,7 @@ class All
             return $app->redirect('/');
         }
 
-        if (!preg_match("/^[a-z]+\$/", $need)) {
+        if (!preg_match("/^[a-z]+\$/", $find)) {
             return $app->redirect('/');
         }
 
