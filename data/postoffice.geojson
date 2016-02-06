@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-06T12:45:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/207716701",
+      "properties": {
+        "@id": "node/207716701",
+        "amenity": "post_office",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5206069,
+          53.4085037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/243892920",
+      "properties": {
+        "@id": "node/243892920",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.6c",
+        "source": "survey",
+        "source:name": "voice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5390355,
+          53.43607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247734984",
+      "properties": {
+        "@id": "node/247734984",
+        "amenity": "post_office",
+        "name": "Highfield Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4757891,
+          53.3679339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/248999853",
+      "properties": {
+        "@id": "node/248999853",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.7b",
+        "name": "Shoreham Street Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.468422,
+          53.3726463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/249341524",
+      "properties": {
+        "@id": "node/249341524",
+        "amenity": "post_office",
+        "name": "Gleadless Post Office",
+        "source:location": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.426511,
+          53.3445104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/260276477",
+      "properties": {
+        "@id": "node/260276477",
+        "amenity": "post_office",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4874323,
+          53.4206683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262077366",
+      "properties": {
+        "@id": "node/262077366",
+        "amenity": "post_office",
+        "name": "Totley Rise Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5248519,
+          53.3174637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263820117",
+      "properties": {
+        "@id": "node/263820117",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4574282,
+          53.3927887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263820703",
+      "properties": {
+        "@id": "node/263820703",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4650145,
+          53.4008821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264163012",
+      "properties": {
+        "@id": "node/264163012",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.9a",
+        "name": "Birley Carr Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5008004,
+          53.4239196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278087588",
+      "properties": {
+        "@id": "node/278087588",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.440511,
+          53.4314822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278603377",
+      "properties": {
+        "@id": "node/278603377",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4789825,
+          53.4317723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278604856",
+      "properties": {
+        "@id": "node/278604856",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4590429,
+          53.4315849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283480841",
+      "properties": {
+        "@id": "node/283480841",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4169224,
+          53.4212774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283757891",
+      "properties": {
+        "@id": "node/283757891",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4350031,
+          53.4174415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304429287",
+      "properties": {
+        "@id": "node/304429287",
+        "amenity": "post_office",
+        "name": "Grenoside Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4998334,
+          53.4432374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305624921",
+      "properties": {
+        "@id": "node/305624921",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.463738,
+          53.4245519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/314065563",
+      "properties": {
+        "@id": "node/314065563",
+        "amenity": "post_office",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4805277,
+          53.461713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322153765",
+      "properties": {
+        "@id": "node/322153765",
+        "amenity": "post_office",
+        "name": "Fulwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5455787,
+          53.3638228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345368669",
+      "properties": {
+        "@id": "node/345368669",
+        "amenity": "post_office",
+        "name": "Bents Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5268534,
+          53.355244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/359994223",
+      "properties": {
+        "@id": "node/359994223",
+        "amenity": "post_office",
+        "name": "Intake Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4221797,
+          53.3588936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361249213",
+      "properties": {
+        "@id": "node/361249213",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4670086,
+          53.3519066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361687243",
+      "properties": {
+        "@id": "node/361687243",
+        "amenity": "post_office",
+        "name": "Jordanthorpe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4645363,
+          53.3227028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369828232",
+      "properties": {
+        "@id": "node/369828232",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.10f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5010559,
+          53.3354935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/373118562",
+      "properties": {
+        "@id": "node/373118562",
+        "amenity": "post_office",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3351564,
+          53.3475474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385605126",
+      "properties": {
+        "@id": "node/385605126",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3527883,
+          53.366059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/608751086",
+      "properties": {
+        "@id": "node/608751086",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4497882,
+          53.3403938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660611894",
+      "properties": {
+        "@id": "node/660611894",
+        "amenity": "post_office",
+        "name": "Sharrow Vale Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4966243,
+          53.367738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/763632067",
+      "properties": {
+        "@id": "node/763632067",
+        "addr:housenumber": "273",
+        "addr:street": "Fulwood Road",
+        "amenity": "post_office",
+        "name": "Broomhill Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.503008,
+          53.3767878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/984513281",
+      "properties": {
+        "@id": "node/984513281",
+        "amenity": "post_office",
+        "name": "Stanwood Post office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5216506,
+          53.3939445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1283364203",
+      "properties": {
+        "@id": "node/1283364203",
+        "amenity": "post_office",
+        "fixme": "check location",
+        "name": "Stocksbridge Post Office (Co-op)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5961387,
+          53.4825998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1348015106",
+      "properties": {
+        "@id": "node/1348015106",
+        "amenity": "post_office",
+        "name": "Banner Cross Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.508023,
+          53.3610318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1422291776",
+      "properties": {
+        "@id": "node/1422291776",
+        "amenity": "post_office",
+        "name": "Hackenthorpe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3725641,
+          53.3442816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1744722730",
+      "properties": {
+        "@id": "node/1744722730",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5017119,
+          53.4150627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794199662",
+      "properties": {
+        "@id": "node/1794199662",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5594076,
+          53.3722778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1937997397",
+      "properties": {
+        "@id": "node/1937997397",
+        "amenity": "post_office",
+        "name": "Upperthorpe Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4862793,
+          53.3898538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2052937145",
+      "properties": {
+        "@id": "node/2052937145",
+        "amenity": "post_office",
+        "name": "Greenhill",
+        "operator": "The Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.488497,
+          53.3276645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3083195973",
+      "properties": {
+        "@id": "node/3083195973",
+        "amenity": "post_office",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3901111,
+          53.3735142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3299151834",
+      "properties": {
+        "@id": "node/3299151834",
+        "addr:city": "Sheffield",
+        "addr:postcode": "S1 2AX",
+        "amenity": "post_office",
+        "note": "In the Wilkinsons Store",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4639735,
+          53.3836974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3646572120",
+      "properties": {
+        "@id": "node/3646572120",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4914653,
+          53.4750564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3715321058",
+      "properties": {
+        "@id": "node/3715321058",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5226396,
+          53.3483911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3837424052",
+      "properties": {
+        "@id": "node/3837424052",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5072149,
+          53.3830254
+        ]
+      }
+    }
+  ]
+}

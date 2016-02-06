@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-05T19:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/267583300",
+      "properties": {
+        "@id": "node/267583300",
+        "amenity": "community_centre",
+        "name": "Grenoside Communitee Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5012701,
+          53.4404966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282371694",
+      "properties": {
+        "@id": "node/282371694",
+        "amenity": "community_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4472856,
+          53.426904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289527580",
+      "properties": {
+        "@id": "node/289527580",
+        "amenity": "community_centre",
+        "name": "Stubbin Neighbourhood Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4503763,
+          53.4222807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322648569",
+      "properties": {
+        "@id": "node/322648569",
+        "amenity": "community_centre",
+        "name": "Sheffield Subud Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4262379,
+          53.3909472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/335713006",
+      "properties": {
+        "@id": "node/335713006",
+        "amenity": "community_centre",
+        "name": "Broomhall Centre",
+        "postal_code": "S10 2FD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4858018,
+          53.378252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361249240",
+      "properties": {
+        "@id": "node/361249240",
+        "amenity": "community_centre",
+        "name": "Brindley Meeting Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4698507,
+          53.3479988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361687315",
+      "properties": {
+        "@id": "node/361687315",
+        "amenity": "community_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4651411,
+          53.322914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/374224056",
+      "properties": {
+        "@id": "node/374224056",
+        "amenity": "community_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.345266,
+          53.3449677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3646348441",
+      "properties": {
+        "@id": "node/3646348441",
+        "amenity": "community_centre",
+        "name": "SADACCA Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4627699,
+          53.386647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3646348463",
+      "properties": {
+        "@id": "node/3646348463",
+        "amenity": "community_centre",
+        "name": "Somaliland Community Social Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4597797,
+          53.3937928
+        ]
+      }
+    }
+  ]
+}

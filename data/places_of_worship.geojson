@@ -1,0 +1,1591 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-05T19:07:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/26770077",
+      "properties": {
+        "@id": "node/26770077",
+        "amenity": "place_of_worship",
+        "denomination": "congregational",
+        "name": "Tapton Hill Congregational Church",
+        "religion": "christian",
+        "source:name": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5151593,
+          53.3775269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26784421",
+      "properties": {
+        "@id": "node/26784421",
+        "amenity": "place_of_worship",
+        "denomination": "salvation_army",
+        "note": "Salvation Army Headquarters(?)",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.490457,
+          53.3670048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/69473053",
+      "properties": {
+        "@id": "node/69473053",
+        "amenity": "place_of_worship",
+        "name": "Kingdom Hall",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4880367,
+          53.3951431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/75784489",
+      "properties": {
+        "@id": "node/75784489",
+        "amenity": "place_of_worship",
+        "name": "The Buddhist Centre",
+        "religion": "buddhist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4979148,
+          53.3891024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/171697967",
+      "properties": {
+        "@id": "node/171697967",
+        "amenity": "place_of_worship",
+        "note": "derelict"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.492008,
+          53.3957822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/171707193",
+      "properties": {
+        "@id": "node/171707193",
+        "amenity": "place_of_worship",
+        "name": "Hampden View Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4924756,
+          53.3981536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/177856177",
+      "properties": {
+        "@id": "node/177856177",
+        "amenity": "place_of_worship",
+        "denomination": "anglican",
+        "name": "St Stephen's Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4854248,
+          53.3860766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/206187890",
+      "properties": {
+        "@id": "node/206187890",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "name": "United Reformed Church Wadsley",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5080205,
+          53.4106153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/206188665",
+      "properties": {
+        "@id": "node/206188665",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5017737,
+          53.4037865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/207719281",
+      "properties": {
+        "@id": "node/207719281",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "name": "St Polycarp's",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5140332,
+          53.4012259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/222008863",
+      "properties": {
+        "@id": "node/222008863",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "name": "Diocese of Hallam Pastoral Centre",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4374419,
+          53.3923749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/222081534",
+      "properties": {
+        "@id": "node/222081534",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "name": "Church On The Rock",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4555147,
+          53.3917897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/224700269",
+      "properties": {
+        "@id": "node/224700269",
+        "amenity": "place_of_worship",
+        "name": "Shiloh United Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4568733,
+          53.3928373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/224748434",
+      "properties": {
+        "@id": "node/224748434",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4563818,
+          53.4044605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/224748451",
+      "properties": {
+        "@id": "node/224748451",
+        "amenity": "place_of_worship",
+        "name": "St. James Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4590666,
+          53.4018558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/224767126",
+      "properties": {
+        "@id": "node/224767126",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "name": "Burngreave Seven-Day Advent Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4640108,
+          53.393277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/240850602",
+      "properties": {
+        "@id": "node/240850602",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Pitsmoor Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4652498,
+          53.3972775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244219435",
+      "properties": {
+        "@id": "node/244219435",
+        "amenity": "place_of_worship",
+        "denomination": "united_reformed",
+        "name": "Zion United Reformed Church",
+        "religion": "christian",
+        "source": "survey",
+        "source:name": "voice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5389159,
+          53.4354546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247487276",
+      "properties": {
+        "@id": "node/247487276",
+        "amenity": "place_of_worship",
+        "name": "Ecclesall Parish Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5119261,
+          53.3567318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/250720609",
+      "properties": {
+        "@id": "node/250720609",
+        "amenity": "place_of_worship",
+        "name": "St. John the Baptist",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4957205,
+          53.4052647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252272102",
+      "properties": {
+        "@id": "node/252272102",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Stanwood Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5233814,
+          53.3930761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255421893",
+      "properties": {
+        "@id": "node/255421893",
+        "amenity": "place_of_worship",
+        "name": "St. William Of York",
+        "religion": "christian",
+        "source": "survey",
+        "source:name": "photograph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5078082,
+          53.3636945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255421920",
+      "properties": {
+        "@id": "node/255421920",
+        "amenity": "place_of_worship",
+        "name": "Trinity United Reformed Church",
+        "religion": "christian",
+        "source": "photograph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5051991,
+          53.3663741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255421921",
+      "properties": {
+        "@id": "node/255421921",
+        "amenity": "place_of_worship",
+        "created_by": "Potlatch 0.10f",
+        "name": "Gyaltsabje Buddhist Meditation Centre",
+        "religion": "buddhist",
+        "source": "photograph",
+        "source:name": "photograph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5030693,
+          53.3670736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255461261",
+      "properties": {
+        "@id": "node/255461261",
+        "amenity": "place_of_worship",
+        "denomination": "anglican;methodist",
+        "name": "St Andrew's Psalter Lane Church",
+        "religion": "christian",
+        "source:name": "photograph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4921209,
+          53.3657699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/257413254",
+      "properties": {
+        "@id": "node/257413254",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Stephen Hill Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5220517,
+          53.3803446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/257665636",
+      "properties": {
+        "@id": "node/257665636",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "name": "Shirefreen UJnited Reformed Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4543434,
+          53.4269109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/257666812",
+      "properties": {
+        "@id": "node/257666812",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "denomination": "anglican",
+        "name": "St. Leonasrd's Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4667205,
+          53.4156954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/260276479",
+      "properties": {
+        "@id": "node/260276479",
+        "amenity": "place_of_worship",
+        "created_by": "JOSM",
+        "denomination": "methodist",
+        "name": "Mount Tabor Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.485715,
+          53.4243123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262574978",
+      "properties": {
+        "@id": "node/262574978",
+        "amenity": "place_of_worship",
+        "name": "Oughtibridge Wesleyan Reform Chapel",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5413146,
+          53.4353403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265237245",
+      "properties": {
+        "@id": "node/265237245",
+        "amenity": "place_of_worship",
+        "created_by": "Potlatch 0.9a",
+        "name": "The Crowded House",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4951058,
+          53.3675235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267583302",
+      "properties": {
+        "@id": "node/267583302",
+        "amenity": "place_of_worship",
+        "created_by": "Potlatch 0.10e",
+        "name": "St. Marks Grenoside",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5016865,
+          53.4412652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/276303102",
+      "properties": {
+        "@id": "node/276303102",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Southey Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4767039,
+          53.4155968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277033938",
+      "properties": {
+        "@id": "node/277033938",
+        "amenity": "place_of_worship",
+        "name": "Living Waters",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4126399,
+          53.3881452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277033963",
+      "properties": {
+        "@id": "node/277033963",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4159751,
+          53.3898982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277034722",
+      "properties": {
+        "@id": "node/277034722",
+        "amenity": "place_of_worship",
+        "name": "Chapelwood Meeting Room",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4165441,
+          53.3927853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277035556",
+      "properties": {
+        "@id": "node/277035556",
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Darnall Road Baptist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4200848,
+          53.3920205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277035562",
+      "properties": {
+        "@id": "node/277035562",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4178199,
+          53.3902578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277035567",
+      "properties": {
+        "@id": "node/277035567",
+        "amenity": "place_of_worship",
+        "disused": "yes",
+        "name": "The Salvation Army (disused)",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4185576,
+          53.3906941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278089118",
+      "properties": {
+        "@id": "node/278089118",
+        "amenity": "place_of_worship",
+        "name": "Christ Church Hillsborough and Wadsley Bridge",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.497822,
+          53.419354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278608484",
+      "properties": {
+        "@id": "node/278608484",
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4583032,
+          53.4327845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278865177",
+      "properties": {
+        "@id": "node/278865177",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Trinity Methodist Church Firvale",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4502187,
+          53.4080699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279049943",
+      "properties": {
+        "@id": "node/279049943",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "The Methodist Church in Firth Park",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4491524,
+          53.4189311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282111551",
+      "properties": {
+        "@id": "node/282111551",
+        "amenity": "place_of_worship",
+        "created_by": "Potlatch 0.10e",
+        "denomination": "methodist",
+        "name": "Creswick Greave Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4831669,
+          53.4346643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282357434",
+      "properties": {
+        "@id": "node/282357434",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Trinity Methodist Church Ecclesfield",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4663466,
+          53.4403948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282371664",
+      "properties": {
+        "@id": "node/282371664",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4435242,
+          53.4353662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282375496",
+      "properties": {
+        "@id": "node/282375496",
+        "amenity": "place_of_worship",
+        "name": "Church of God",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4650843,
+          53.4008405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283480127",
+      "properties": {
+        "@id": "node/283480127",
+        "amenity": "place_of_worship",
+        "name": "St Thomas Church Wincobank",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.418703,
+          53.421123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283760041",
+      "properties": {
+        "@id": "node/283760041",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4342618,
+          53.4174762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283799925",
+      "properties": {
+        "@id": "node/283799925",
+        "amenity": "place_of_worship",
+        "name": "Saint Margaret",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4237984,
+          53.4135204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289465051",
+      "properties": {
+        "@id": "node/289465051",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Kingdom Hall Of Jehovah's Witnesses",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4403882,
+          53.4048462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289524264",
+      "properties": {
+        "@id": "node/289524264",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Hatfield House Lane Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4438934,
+          53.4240851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293564706",
+      "properties": {
+        "@id": "node/293564706",
+        "amenity": "place_of_worship",
+        "name": "Carterknowle Seventh Day Adventist Church",
+        "religion": "christian",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4954951,
+          53.3522996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299855897",
+      "properties": {
+        "@id": "node/299855897",
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.442102,
+          53.4286906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304384666",
+      "properties": {
+        "@id": "node/304384666",
+        "amenity": "place_of_worship",
+        "name": "The Methodist Church Birley Carr",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5009239,
+          53.4241794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304426484",
+      "properties": {
+        "@id": "node/304426484",
+        "amenity": "place_of_worship",
+        "denomination": "mormon",
+        "name": "The Church of Jesus Christ of Latter-day Saints",
+        "postal_code": "S35 8RL",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4941119,
+          53.4379064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304540903",
+      "properties": {
+        "@id": "node/304540903",
+        "amenity": "place_of_worship",
+        "name": "St Bart's Church",
+        "postal_code": "S6 2UW",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4899627,
+          53.3950692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/309766611",
+      "properties": {
+        "@id": "node/309766611",
+        "amenity": "place_of_worship",
+        "name": "Dore & Totley United Reformed Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5262109,
+          53.3203494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/309786930",
+      "properties": {
+        "@id": "node/309786930",
+        "amenity": "place_of_worship",
+        "name": "Christ Churh Dore Parish",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5396149,
+          53.3256685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315643105",
+      "properties": {
+        "@id": "node/315643105",
+        "amenity": "place_of_worship",
+        "name": "High Green Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4879485,
+          53.4740118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322665935",
+      "properties": {
+        "@id": "node/322665935",
+        "amenity": "place_of_worship",
+        "name": "Elahi Jame Mosque",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4238693,
+          53.389297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322680732",
+      "properties": {
+        "@id": "node/322680732",
+        "amenity": "place_of_worship",
+        "name": "Darnal Spiritualist National Union Church",
+        "religion": "spiritualist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4198284,
+          53.3887887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322694957",
+      "properties": {
+        "@id": "node/322694957",
+        "amenity": "place_of_worship",
+        "name": "Church Of Christ",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4109884,
+          53.3861787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322694965",
+      "properties": {
+        "@id": "node/322694965",
+        "amenity": "place_of_worship",
+        "name": "Noor Al Hadi Mosque",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.427405,
+          53.3897646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325238431",
+      "properties": {
+        "@id": "node/325238431",
+        "amenity": "place_of_worship",
+        "name": "St Luke's Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5635083,
+          53.3710517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/335826369",
+      "properties": {
+        "@id": "node/335826369",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Carterknowle Methodist Centre",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4861668,
+          53.3545144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345336902",
+      "properties": {
+        "@id": "node/345336902",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Kingdom Hall of Jehovah's Witnesses",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5099332,
+          53.3638247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345356306",
+      "properties": {
+        "@id": "node/345356306",
+        "amenity": "place_of_worship",
+        "name": "St. Gabriel",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5122437,
+          53.3635842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345368682",
+      "properties": {
+        "@id": "node/345368682",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Bents Green Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5271427,
+          53.3546993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360980005",
+      "properties": {
+        "@id": "node/360980005",
+        "amenity": "place_of_worship",
+        "name": "St Pauls",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.47306,
+          53.3500131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361227485",
+      "properties": {
+        "@id": "node/361227485",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4734103,
+          53.3568302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361687311",
+      "properties": {
+        "@id": "node/361687311",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4651413,
+          53.3228827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364804483",
+      "properties": {
+        "@id": "node/364804483",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Woodseats Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.481088,
+          53.3413081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364808419",
+      "properties": {
+        "@id": "node/364808419",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Woodseats Evangelical Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.482968,
+          53.3403499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364819127",
+      "properties": {
+        "@id": "node/364819127",
+        "amenity": "place_of_worship",
+        "name": "St Chad's",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4861808,
+          53.3399023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364826549",
+      "properties": {
+        "@id": "node/364826549",
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Beauchief Baptist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4943349,
+          53.3372649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367070216",
+      "properties": {
+        "@id": "node/367070216",
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "St Anthony's Catholic Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4414282,
+          53.3394203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/373268645",
+      "properties": {
+        "@id": "node/373268645",
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5324908,
+          53.316269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/386247603",
+      "properties": {
+        "@id": "node/386247603",
+        "amenity": "place_of_worship",
+        "name": "Southern Light Community Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.370026,
+          53.3580477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387012177",
+      "properties": {
+        "@id": "node/387012177",
+        "amenity": "place_of_worship",
+        "name": "The Salvation Army",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3719183,
+          53.3581204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387012189",
+      "properties": {
+        "@id": "node/387012189",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "name": "Trinity Methodist Church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.373484,
+          53.3589842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/475731056",
+      "properties": {
+        "@id": "node/475731056",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4071894,
+          53.361496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/530654112",
+      "properties": {
+        "@id": "node/530654112",
+        "amenity": "place_of_worship",
+        "denomination": "united_reformed",
+        "name": "Gleadless URC",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.426975,
+          53.3502071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595868673",
+      "properties": {
+        "@id": "node/595868673",
+        "FIXME": "Church or supermarket?",
+        "amenity": "place_of_worship",
+        "operator": "Coop",
+        "religion": "christian",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4252444,
+          53.3457313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/608747369",
+      "properties": {
+        "@id": "node/608747369",
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4174622,
+          53.3429945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/655308612",
+      "properties": {
+        "@id": "node/655308612",
+        "amenity": "place_of_worship",
+        "denomination": "methodist",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4232551,
+          53.3514206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420115157",
+      "properties": {
+        "@id": "node/1420115157",
+        "amenity": "place_of_worship",
+        "name": "Kings Centre",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4939861,
+          53.3582528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1495550391",
+      "properties": {
+        "@id": "node/1495550391",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.647288,
+          53.4920541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1709724491",
+      "properties": {
+        "@id": "node/1709724491",
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "The Sacred Heart",
+        "religion": "christian",
+        "source": "Local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4991756,
+          53.4011871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2392858011",
+      "properties": {
+        "@id": "node/2392858011",
+        "amenity": "place_of_worship",
+        "denomination": "salvation_army",
+        "name": "Salvation Army (Castle Corps)",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4548195,
+          53.3789812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3632896937",
+      "properties": {
+        "@id": "node/3632896937",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4635548,
+          53.3296278
+        ]
+      }
+    }
+  ]
+}

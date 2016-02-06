@@ -1,0 +1,697 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-06T15:37:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/255113202",
+      "properties": {
+        "@id": "node/255113202",
+        "amenity": "pharmacy",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4762319,
+          53.3687832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/260236178",
+      "properties": {
+        "@id": "node/260236178",
+        "amenity": "pharmacy",
+        "name": "Lo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4931679,
+          53.3697038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262574462",
+      "properties": {
+        "@id": "node/262574462",
+        "amenity": "pharmacy",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5393578,
+          53.4359741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/276304977",
+      "properties": {
+        "@id": "node/276304977",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Lloyds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.471441,
+          53.4229686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283475257",
+      "properties": {
+        "@id": "node/283475257",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4163027,
+          53.4193558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283764075",
+      "properties": {
+        "@id": "node/283764075",
+        "amenity": "pharmacy",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4310984,
+          53.4175046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289485589",
+      "properties": {
+        "@id": "node/289485589",
+        "addr:city": "Firvale, Sheffield",
+        "addr:housenumber": "29,31",
+        "addr:postcode": "S4 8GN",
+        "addr:street": "Rushby Street",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Fir Vale Pharmacy",
+        "opening_hours": "Mo-Fr 08:00-22:30; Sa 08:00-22:30; Su 08:00-22:30",
+        "phone": "0114 2420009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4471724,
+          53.4080588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289529654",
+      "properties": {
+        "@id": "node/289529654",
+        "amenity": "pharmacy",
+        "name": "Peak Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4801854,
+          53.4185027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304400788",
+      "properties": {
+        "@id": "node/304400788",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Allen & Barnfield Chemists"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4954231,
+          53.4272658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304413542",
+      "properties": {
+        "@id": "node/304413542",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "The Co-operative Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4959802,
+          53.4369054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/312415566",
+      "properties": {
+        "@id": "node/312415566",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.514988,
+          53.4189351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/314059106",
+      "properties": {
+        "@id": "node/314059106",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Lloyds",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4651217,
+          53.4616036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/314065543",
+      "properties": {
+        "@id": "node/314065543",
+        "amenity": "pharmacy",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.480316,
+          53.4612311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322127788",
+      "properties": {
+        "@id": "node/322127788",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Oakbrook Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.524785,
+          53.3682041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322689824",
+      "properties": {
+        "@id": "node/322689824",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Weldricks Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.413205,
+          53.3862895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322891259",
+      "properties": {
+        "@id": "node/322891259",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Wicker Pharmacy",
+        "opening_hours": "Mo-Sa 08:30-22:00; Su 10:00-20:00; Dec 25 15:00-17:00",
+        "phone": "0114 272 7676",
+        "postal_code": "S3 8HT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4626403,
+          53.3872959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345368672",
+      "properties": {
+        "@id": "node/345368672",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Bents Green Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5274135,
+          53.3550837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360069717",
+      "properties": {
+        "@id": "node/360069717",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.464289,
+          53.3593819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360949160",
+      "properties": {
+        "@id": "node/360949160",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4738832,
+          53.3278023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361245230",
+      "properties": {
+        "@id": "node/361245230",
+        "amenity": "pharmacy",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4808743,
+          53.3543951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361261073",
+      "properties": {
+        "@id": "node/361261073",
+        "amenity": "pharmacy",
+        "name": "Derbyshire Lane Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4727204,
+          53.3459301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361687331",
+      "properties": {
+        "@id": "node/361687331",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4641294,
+          53.3232989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364808430",
+      "properties": {
+        "@id": "node/364808430",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "The Co-operative Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4789294,
+          53.3400561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366989454",
+      "properties": {
+        "@id": "node/366989454",
+        "amenity": "pharmacy",
+        "dispensing": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4457356,
+          53.3448856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/372916019",
+      "properties": {
+        "@id": "node/372916019",
+        "addr:housename": "Sothall Pharmacy",
+        "addr:housenumber": "26",
+        "addr:postcode": "S20 1HQ",
+        "addr:street": "Eckington Road",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Sothall Pharmacy",
+        "website": "http://www.nhs.uk/Services/pharmacies/Overview/DefaultView.aspx?id=4040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3402783,
+          53.3385512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387012179",
+      "properties": {
+        "@id": "node/387012179",
+        "amenity": "pharmacy",
+        "name": "Woodhouse Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3720448,
+          53.3578646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387012193",
+      "properties": {
+        "@id": "node/387012193",
+        "amenity": "pharmacy",
+        "name": "Rowlands Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.372557,
+          53.3594983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387012226",
+      "properties": {
+        "@id": "node/387012226",
+        "amenity": "pharmacy",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3702147,
+          53.3587565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/470951443",
+      "properties": {
+        "@id": "node/470951443",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4556813,
+          53.3786384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/470951444",
+      "properties": {
+        "@id": "node/470951444",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4561889,
+          53.3792673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/475731060",
+      "properties": {
+        "@id": "node/475731060",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4042283,
+          53.3629763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/655211122",
+      "properties": {
+        "@id": "node/655211122",
+        "amenity": "pharmacy",
+        "name": "Cooperative Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4262756,
+          53.3445511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/655449944",
+      "properties": {
+        "@id": "node/655449944",
+        "addr:city": "Sheffield",
+        "addr:housenumber": "4-7",
+        "addr:postcode": "S11 8PN",
+        "addr:street": "Berkeley Precinct",
+        "amenity": "pharmacy",
+        "name": "Boots",
+        "opening_hours": "Mo-Fr 8:30-19:00; Sa 8:30-18:00; Su 10:30-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4932769,
+          53.3694004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/678863317",
+      "properties": {
+        "@id": "node/678863317",
+        "amenity": "pharmacy",
+        "dispensing": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5197623,
+          53.3794238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/899991536",
+      "properties": {
+        "@id": "node/899991536",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4266671,
+          53.345897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/918360461",
+      "properties": {
+        "@id": "node/918360461",
+        "amenity": "pharmacy",
+        "name": "Numark Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.422504,
+          53.3434147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794441106",
+      "properties": {
+        "@id": "node/1794441106",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5590079,
+          53.3724026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1875941172",
+      "properties": {
+        "@id": "node/1875941172",
+        "amenity": "pharmacy",
+        "name": "Ranmoor Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5227225,
+          53.3710825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1933887440",
+      "properties": {
+        "@id": "node/1933887440",
+        "amenity": "pharmacy",
+        "name": "Lloyds pharmacy "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5084666,
+          53.3625339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3083221905",
+      "properties": {
+        "@id": "node/3083221905",
+        "amenity": "pharmacy",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4087259,
+          53.3848053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3646348462",
+      "properties": {
+        "@id": "node/3646348462",
+        "amenity": "pharmacy",
+        "name": "Swift Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4581325,
+          53.3931304
+        ]
+      }
+    }
+  ]
+}

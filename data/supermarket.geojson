@@ -1,0 +1,824 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-06T12:46:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/26935773",
+      "properties": {
+        "@id": "node/26935773",
+        "created_by": "JOSM",
+        "name": "Sainsburys",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3503778,
+          53.3413898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/69435245",
+      "properties": {
+        "@id": "node/69435245",
+        "name": "Morrisons",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4963342,
+          53.4020164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255112995",
+      "properties": {
+        "@id": "node/255112995",
+        "created_by": "Potlatch 0.8a",
+        "name": "Costcutter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4771988,
+          53.3693409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255902669",
+      "properties": {
+        "@id": "node/255902669",
+        "created_by": "Potlatch 0.8a",
+        "name": "Farmfoods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5001162,
+          53.4031176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/257369499",
+      "properties": {
+        "@id": "node/257369499",
+        "name": "Eurospar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.502045,
+          53.3774518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263822244",
+      "properties": {
+        "@id": "node/263822244",
+        "name": "Tesco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4715584,
+          53.4129142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266962343",
+      "properties": {
+        "@id": "node/266962343",
+        "name": "Tesco Express",
+        "operator": "Tesco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4294914,
+          53.3608881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266962569",
+      "properties": {
+        "@id": "node/266962569",
+        "created_by": "Potlatch 0.9a",
+        "name": "Lidl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4170181,
+          53.3722116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266962598",
+      "properties": {
+        "@id": "node/266962598",
+        "name": "The Co-operative Food",
+        "operator": "The Co-operative Group",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4293777,
+          53.3753096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/276302061",
+      "properties": {
+        "@id": "node/276302061",
+        "name": "Co-operative",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4797457,
+          53.418608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/276304992",
+      "properties": {
+        "@id": "node/276304992",
+        "name": "Lidl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4920828,
+          53.4232611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278603375",
+      "properties": {
+        "@id": "node/278603375",
+        "name": "Co-operative",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.479273,
+          53.4316618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282374206",
+      "properties": {
+        "@id": "node/282374206",
+        "name": "The Co-operative Food",
+        "operator": "The Co-operative Group",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4482598,
+          53.4191062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299860550",
+      "properties": {
+        "@id": "node/299860550",
+        "name": "Iceland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4555673,
+          53.4222536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/312646836",
+      "properties": {
+        "@id": "node/312646836",
+        "name": "ASDA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4659606,
+          53.4627724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/317633119",
+      "properties": {
+        "@id": "node/317633119",
+        "name": "Continental Food Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486655,
+          53.3901686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360001829",
+      "properties": {
+        "@id": "node/360001829",
+        "created_by": "Potlatch 0.10f",
+        "operator": "Co-Operative",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4114884,
+          53.3558987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361249214",
+      "properties": {
+        "@id": "node/361249214",
+        "name": "The Co-operative Food",
+        "operator": "The Co-operative Group",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4667684,
+          53.3519396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361687238",
+      "properties": {
+        "@id": "node/361687238",
+        "name": "The Co-operative Food",
+        "operator": "The Co-operative Group",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4645383,
+          53.3227921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367046207",
+      "properties": {
+        "@id": "node/367046207",
+        "name": "The Co-operative Food",
+        "operator": "The Co-operative Group",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4494456,
+          53.3403194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387012196",
+      "properties": {
+        "@id": "node/387012196",
+        "name": "Late Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3713676,
+          53.3592881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387012227",
+      "properties": {
+        "@id": "node/387012227",
+        "name": "Costcutter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3703176,
+          53.3588493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595868673",
+      "properties": {
+        "@id": "node/595868673",
+        "FIXME": "Church or supermarket?",
+        "amenity": "place_of_worship",
+        "operator": "Coop",
+        "religion": "christian",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4252444,
+          53.3457313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/597218291",
+      "properties": {
+        "@id": "node/597218291",
+        "name": "Asda",
+        "operator": "Asda",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.396597,
+          53.3757752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/655307382",
+      "properties": {
+        "@id": "node/655307382",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4249016,
+          53.3515738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666078422",
+      "properties": {
+        "@id": "node/666078422",
+        "operator": "Spar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4024229,
+          53.3495464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666137995",
+      "properties": {
+        "@id": "node/666137995",
+        "name": "The Co-operative Food",
+        "operator": "The Co-operative Group",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4008802,
+          53.3485084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1265232400",
+      "properties": {
+        "@id": "node/1265232400",
+        "name": "Sainsbury's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4876763,
+          53.3835509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1422949712",
+      "properties": {
+        "@id": "node/1422949712",
+        "name": "ASDA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5043125,
+          53.4118543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1538296808",
+      "properties": {
+        "@id": "node/1538296808",
+        "name": "Morrisons",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4975343,
+          53.4017789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1705513050",
+      "properties": {
+        "@id": "node/1705513050",
+        "name": "Heron Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5019082,
+          53.4030873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1937679642",
+      "properties": {
+        "@id": "node/1937679642",
+        "name": "Beeches of Walkley",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5006501,
+          53.3931292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2343239869",
+      "properties": {
+        "@id": "node/2343239869",
+        "addr:housenumber": "178",
+        "addr:postcode": "S2 4LT",
+        "addr:street": "London Road",
+        "name": "Ozmen",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4769661,
+          53.3690252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2425972421",
+      "properties": {
+        "@id": "node/2425972421",
+        "name": "Empire News",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4814671,
+          53.3602409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2515505122",
+      "properties": {
+        "@id": "node/2515505122",
+        "name": "Frozen Value",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4743451,
+          53.3755291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2541971225",
+      "properties": {
+        "@id": "node/2541971225",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4750169,
+          53.3748397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2624389267",
+      "properties": {
+        "@id": "node/2624389267",
+        "name": "Global Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4771456,
+          53.3769459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3369954778",
+      "properties": {
+        "@id": "node/3369954778",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5023616,
+          53.3191996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3632893045",
+      "properties": {
+        "@id": "node/3632893045",
+        "name": "Heron Frozen Goods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4653471,
+          53.322757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3632894034",
+      "properties": {
+        "@id": "node/3632894034",
+        "name": "Adams Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4649576,
+          53.3228768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3634316307",
+      "properties": {
+        "@id": "node/3634316307",
+        "name": "The Co-operative Food",
+        "operator": "The Co-operative Group",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4179522,
+          53.3476651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3636004097",
+      "properties": {
+        "@id": "node/3636004097",
+        "name": "ASDA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4781578,
+          53.3412929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3636004432",
+      "properties": {
+        "@id": "node/3636004432",
+        "name": "Iceland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4779432,
+          53.3411378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3645952214",
+      "properties": {
+        "@id": "node/3645952214",
+        "name": "Martins Good To Go",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4629824,
+          53.3864987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3646348460",
+      "properties": {
+        "@id": "node/3646348460",
+        "name": "Emin Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.458057,
+          53.3918232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3646415797",
+      "properties": {
+        "@id": "node/3646415797",
+        "name": "Spar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.467438,
+          53.4621453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3824468559",
+      "properties": {
+        "@id": "node/3824468559",
+        "addr:city": "Sheffield",
+        "addr:postcode": "S2 4DR",
+        "addr:street": "Queens Road",
+        "name": "Netto",
+        "opening_hours": "Mo-Sa 08:00-21:00;Su 10:00-16:00",
+        "shop": "supermarket",
+        "website": "http://www.netto.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.46513,
+          53.367893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3824468561",
+      "properties": {
+        "@id": "node/3824468561",
+        "addr:city": "Sheffield",
+        "addr:postcode": "S6 1NN",
+        "addr:street": "Kilner Way Retail Park",
+        "name": "Netto",
+        "opening_hours": "Mo-Sa 08:00-21:00;Su 10:00-16:00",
+        "shop": "supermarket",
+        "website": "http://www.netto.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.495812,
+          53.418386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920998447",
+      "properties": {
+        "@id": "node/3920998447",
+        "name": "Co-operative Local",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4710573,
+          53.3796845
+        ]
+      }
+    }
+  ]
+}
