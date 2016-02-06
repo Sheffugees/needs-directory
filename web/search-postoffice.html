@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Foundation for Sites</title>
         <link rel="stylesheet" href="css/app.css">
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
     </head>
     <body>
         <div class="row">
@@ -17,51 +18,67 @@
 
 
         <div class="row">
+            <div class="small-12 columns">
+                <ul class="tabs" data-tabs id="example-tabs">
+                    <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">List view</a></li>
+                    <li class="tabs-title"><a href="#panel2">Map view</a></li>
+                </ul>
 
-            <div class="small-12 medium-6 large-6 columns">
-                <div class="callout secondary">
-                    <img src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location=53.372722,-1.4682351&heading=234.28&pitch=0&key=AIzaSyBEoWw039wZsgCN9sBND-oLlQfzFJ6vLwo" class="thumbnail" alt="">
-                    <p>228 Shoreham St, Sheffield, England</p>
-                    <div class="row">
-                        <div class="small-6 columns">
-                            <a href="#" class="button expand">
-                                <img src="//placehold.it/128x128" class="thumbnail" alt="">
-                                <p>Navigate using Street View</p>
-                            </a>
+                <div class="tabs-content" data-tabs-content="example-tabs">
+                    <div class="tabs-panel is-active" id="panel1">
+                        <div class="small-12 medium-6 large-6 columns">
+                            <div class="callout secondary">
+                                <img src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location=53.372722,-1.4682351&heading=234.28&pitch=0&key=AIzaSyBEoWw039wZsgCN9sBND-oLlQfzFJ6vLwo" class="thumbnail" alt="">
+                                <p>228 Shoreham St, Sheffield, England</p>
+                                <div class="row">
+                                    <div class="small-6 columns">
+                                        <a href="#" class="button expand">
+                                            <img src="//placehold.it/128x128" class="thumbnail" alt="">
+                                            <p>Navigate using images</p>
+                                        </a>
+                                    </div>
+                                    <div class="small-6 columns">
+                                        <a href="#" class="button expand">
+                                            <img src="//placehold.it/128x128" class="thumbnail" alt="">
+                                            <p>Navigate on a map</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="small-6 columns">
-                            <a href="#" class="button expand">
-                                <img src="//placehold.it/128x128" class="thumbnail" alt="">
-                                <p>Navigate on a map</p>
-                            </a>
+                        <div class="small-12 medium-6 large-6 columns">
+                            <div class="callout secondary">
+                                <img src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location=53.3787745,-1.470125&heading=19.8&pitch=0&key=AIzaSyBEoWw039wZsgCN9sBND-oLlQfzFJ6vLwo" class="thumbnail" alt="">
+                                <p>43 Charles St, Sheffield, England</p>
+                                <div class="row">
+                                    <div class="small-6 columns">
+                                        <a href="#" class="button expand">
+                                            <img src="//placehold.it/128x128" class="thumbnail" alt="">
+                                            <p>Navigate using images</p>
+                                        </a>
+                                    </div>
+                                    <div class="small-6 columns">
+                                        <a href="#" class="button expand">
+                                            <img src="//placehold.it/128x128" class="thumbnail" alt="">
+                                            <p>Navigate on a map</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div> 
+                    <div class="tabs-panel" id="panel2">
+                        <div class="map-container">
+                            <div id="map">
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div class="small-12 medium-6 large-6 columns">
-                <div class="callout secondary">
-                    <img src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location=53.3787745,-1.470125&heading=19.8&pitch=0&key=AIzaSyBEoWw039wZsgCN9sBND-oLlQfzFJ6vLwo" class="thumbnail" alt="">
-                    <p>43 Charles St, Sheffield, England</p>
-                    <div class="row">
-                        <div class="small-6 columns">
-                            <a href="#" class="button expand">
-                                <img src="//placehold.it/128x128" class="thumbnail" alt="">
-                                <p>Navigate using Street View</p>
-                            </a>
-                        </div>
-                        <div class="small-6 columns">
-                            <a href="#" class="button expand">
-                                <img src="//placehold.it/128x128" class="thumbnail" alt="">
-                                <p>Navigate on a map</p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
+                </div> 
+            </div> 
         </div> 
 
+        <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
         <script src="bower_components/jquery/dist/jquery.js"></script>
         <script src="bower_components/what-input/what-input.js"></script>
         <script src="bower_components/foundation-sites/dist/foundation.js"></script>
