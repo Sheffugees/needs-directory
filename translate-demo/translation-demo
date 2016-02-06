@@ -1,0 +1,64 @@
+<html>
+<head>
+
+<script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+<script>
+	$(document).ready(function() {
+		$('#languages').data('pre', $(this).val());
+        $('#languages').bind('change', runTranslation);
+
+		function runTranslation(evt) {
+			var before_change = $(this).data('pre');//get the pre data
+			var langCode = $("#languages option:selected").val();
+			
+			// Empty string returned on first interaction with select?
+			if (!before_change) {
+				before_change = document.getElementById('languages').options[0].value;
+			}
+			
+			// Hardcoded for now, just pass originalText in as a parameter and it will replace the spaces and send to the api
+			var originalText = "Hello! Welcome to our new website";
+			var replacedText = originalText.split(' ').join('+');
+		
+			var langCode = $("#languages option:selected").val();
+			var xhr = new XMLHttpRequest();
+			
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == 4 && xhr.status == 200) {
+				  var jsonObject = JSON.parse(xhr.responseText);
+				  $('#textArea').text(jsonObject.text[0]);
+				}
+			  };
+			
+			// Had a problem translating from certain languages to others (encoding issues I think). But our source content will always be in English
+			// so we can just use that and translate to the selected languages
+			
+			// API Key hardcoded for now
+			//xhr.open("GET", "https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20160206T123230Z.37bca81167793559.4914b0cdb53f30907bf278a6726aee775e04cfb1&text=" + replacedText +"&lang=" + before_change + "-" + langCode, false);
+			xhr.open("GET", "https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20160206T123230Z.37bca81167793559.4914b0cdb53f30907bf278a6726aee775e04cfb1&text=" + replacedText +"&lang=" + langCode, false);
+			xhr.send();
+
+			$(this).data('pre', $(this).val());
+		}
+	});
+</script>
+
+</head>
+
+<body>
+
+	<!--Harcoded in a few language codes as examples, full supported list available here: https://tech.yandex.com/translate/doc/dg/concepts/langs-docpage/ -->
+	<select id="languages">
+	  <option value="en">English</option>
+	  <option value="ar">Arabic</option>
+	  <option value="hy">Armenian</option>
+	  <option value="bs">Bosnian</option>
+	</select>
+	<br/>
+	<br/>
+	<div id="textArea">
+		Hello! Welcome to our new website
+	</div>
+</body>
+
+</html>

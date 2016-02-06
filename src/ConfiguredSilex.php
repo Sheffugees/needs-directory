@@ -25,6 +25,10 @@ class ConfiguredSilex extends Application
         parent::__construct($values);
 
         $this->get('/', 'Sheffugees\\Controllers\\All::index');
+        $this->get('/{lang}', 'Sheffugees\\Controllers\\All::location');
+        $this->get('/{lang}/choose', 'Sheffugees\\Controllers\\All::choose');
+        $this->get('/{lang}/need/{need}', 'Sheffugees\\Controllers\\All::need');
+        $this->get('/{lang}/results/{find}', 'Sheffugees\\Controllers\\All::results');
 
         $this->register(new \Silex\Provider\TwigServiceProvider(), [
             'twig.path' => __DIR__ . '/../views',
